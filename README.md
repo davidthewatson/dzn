@@ -23,3 +23,7 @@ I run pyenv. THis has only been tested on python 3.6.2.
 ## Requirements
 
 What requirements?
+
+## Runtime
+
+    python download_zillow_neighborhoods.py
