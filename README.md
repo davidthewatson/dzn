@@ -18,7 +18,7 @@ be different than that implied by the aforementioned django models.
 
 What install?
 
-I run pyenv. THis has only been tested on python 3.6.2.
+I run pyenv. This has only been tested on python 3.6.2.
 
 ## Requirements
 
