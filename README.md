@@ -7,7 +7,8 @@ Download Zillow Neighborhoods in pure python
 This script was inspired by https://github.com/claymation/django-zillow-neighborhoods
 
 The difference is that while the former requires various bits of django, this
-one makes due by copying a bit of django local flavor in order to have an
+one eliminates the need for django imports by copying US states from 
+django local flavor in order to have an
 iterable US state list. Further, it merely downloads the files to the local
 file system instead of importing those files into various django models.
 
